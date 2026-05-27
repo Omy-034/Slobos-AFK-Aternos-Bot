@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "Slobot00",
+    "password": "pacotico",
     "type": "offline"
   },
   "server": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobot00"
+      "password": "pacotico"
     },
     "anti-afk": {
       "enabled": true,
